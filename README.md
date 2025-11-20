@@ -36,7 +36,7 @@ Each file is self-contained and easy to read.
 | [Minimum Sum of Absolute Differences of Pairs]( https://www.geeksforgeeks.org/problems/minimum-sum-of-absolute-differences-of-pairs/1) | [MinimumSumOfAbsoluteDifferencesOfPair.cpp](https://github.com/PavanYalavarthi/GeeksForGeeks-solutions/blob/main/MinimumSumOfAbsoluteDifferencesOfPair.cpp) | Dynamic Programming|
 | [Optimal Strategy For A Game]( https://www.geeksforgeeks.org/problems/max-possible-amount2717/1) | [OptimalStrategyForAGame.cpp](https://github.com/PavanYalavarthi/GeeksForGeeks-solutions/blob/main/OptimalStrategyForAGame.cpp) | Dynamic Programming|
 | [String's Count]( https://www.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints1135/1) | [String's Count.cpp](https://github.com/PavanYalavarthi/GeeksForGeeks-solutions/blob/main/String's%20Count.cpp) | Dynamic Programming|
-| [The Painter's Partition Problem-II]( https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) | [The Painter's Partition Problem-II.cpp](https://github.com/PavanYalavarthi/GeeksForGeeks-solutions/blob/main/The Painter's%20Partition%20Problem-II.cpp) | Binary Search |
+| [The Painter's Partition Problem-II]( https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) | [The Painter's Partition Problem-II.cpp](https://github.com/PavanYalavarthi/GeeksForGeeks-solutions/blob/main/The%20Painter's%20Partition%20Problem-II.cpp) | Binary Search |
 | [Travelling Salesman Problem](https://www.geeksforgeeks.org/problems/travelling-salesman-problem2732/1) | [Travelling Salesman Problem.cpp](https://github.com/PavanYalavarthi/GeeksForGeeks-solutions/blob/main/Travelling%20Salesman%20Problem.cpp) | Dynamic Programming|
 ---
 
